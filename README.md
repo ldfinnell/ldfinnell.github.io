@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LD's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/ldfinnell/ldfinnell.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
